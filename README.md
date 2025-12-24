@@ -1,10 +1,10 @@
 Ecommerce Automation Project
 
 1. Project Title:-
-Automation Testing Framework for bstackdemo.com
+Automation Testing Framework for bstackdemo.com Ecommerce website.
 
 2. Objective:-
-To design and implement a scalable automation framework to validate the core functionalities of bstackdemo.com using Selenium WebDriver and TestNG.
+To design and implement a scalable automation framework to validate the core functionalities of bstackdemo.com Ecommerce website using Selenium WebDriver and TestNG.
 
 3. Technology Stack:-
 •	Language: Java
