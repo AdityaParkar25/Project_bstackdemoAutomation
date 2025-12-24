@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-12-24T16:11:41 IST" name="Suite" finished-at="2025-12-24T16:12:59 IST" duration-ms="77899">
+    <groups>
+    </groups>
+    <test started-at="2025-12-24T16:11:41 IST" name="Test" finished-at="2025-12-24T16:12:59 IST" duration-ms="77899">
+      <class name="tests.LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.LoginTest@66ea810]" started-at="2025-12-24T16:11:41 IST" name="setUp" finished-at="2025-12-24T16:11:53 IST" duration-ms="11740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC_001_testValidLogin()[pri:0, instance:tests.LoginTest@66ea810]" started-at="2025-12-24T16:11:53 IST" name="TC_001_testValidLogin" finished-at="2025-12-24T16:11:58 IST" duration-ms="4570" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_001_testValidLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LoginTest@66ea810]" started-at="2025-12-24T16:11:58 IST" name="tearDown" finished-at="2025-12-24T16:11:58 IST" duration-ms="385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.LoginTest@66ea810]" started-at="2025-12-24T16:11:58 IST" name="setUp" finished-at="2025-12-24T16:12:04 IST" duration-ms="5782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC_002_testInvalidLogin()[pri:0, instance:tests.LoginTest@66ea810]" started-at="2025-12-24T16:12:04 IST" name="TC_002_testInvalidLogin" finished-at="2025-12-24T16:12:08 IST" duration-ms="4337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_002_testInvalidLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LoginTest@66ea810]" started-at="2025-12-24T16:12:08 IST" name="tearDown" finished-at="2025-12-24T16:12:09 IST" duration-ms="353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.LoginTest@66ea810]" started-at="2025-12-24T16:12:09 IST" name="setUp" finished-at="2025-12-24T16:12:13 IST" duration-ms="4789" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC_003_emptyCredentials()[pri:0, instance:tests.LoginTest@66ea810]" started-at="2025-12-24T16:12:13 IST" name="TC_003_emptyCredentials" finished-at="2025-12-24T16:12:16 IST" duration-ms="2981" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_003_emptyCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LoginTest@66ea810]" started-at="2025-12-24T16:12:16 IST" name="tearDown" finished-at="2025-12-24T16:12:17 IST" duration-ms="360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.LoginTest -->
+      <class name="tests.AddToCartTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.AddToCartTest@10289886]" started-at="2025-12-24T16:12:17 IST" name="setUp" finished-at="2025-12-24T16:12:22 IST" duration-ms="5046" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC_004_addSingleItem()[pri:0, instance:tests.AddToCartTest@10289886]" started-at="2025-12-24T16:12:22 IST" name="TC_004_addSingleItem" finished-at="2025-12-24T16:12:23 IST" duration-ms="1401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_004_addSingleItem -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.AddToCartTest@10289886]" started-at="2025-12-24T16:12:23 IST" name="tearDown" finished-at="2025-12-24T16:12:24 IST" duration-ms="408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.AddToCartTest@10289886]" started-at="2025-12-24T16:12:24 IST" name="setUp" finished-at="2025-12-24T16:12:29 IST" duration-ms="5094" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC_005_addMultipleItem()[pri:0, instance:tests.AddToCartTest@10289886]" started-at="2025-12-24T16:12:29 IST" name="TC_005_addMultipleItem" finished-at="2025-12-24T16:12:30 IST" duration-ms="1575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_005_addMultipleItem -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.AddToCartTest@10289886]" started-at="2025-12-24T16:12:30 IST" name="tearDown" finished-at="2025-12-24T16:12:31 IST" duration-ms="348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.AddToCartTest@10289886]" started-at="2025-12-24T16:12:31 IST" name="setUp" finished-at="2025-12-24T16:12:36 IST" duration-ms="5665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC_006_removeItem()[pri:0, instance:tests.AddToCartTest@10289886]" started-at="2025-12-24T16:12:36 IST" name="TC_006_removeItem" finished-at="2025-12-24T16:12:38 IST" duration-ms="1322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_006_removeItem -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.AddToCartTest@10289886]" started-at="2025-12-24T16:12:38 IST" name="tearDown" finished-at="2025-12-24T16:12:38 IST" duration-ms="419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.AddToCartTest -->
+      <class name="tests.CheckoutTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.CheckoutTest@5c86dbc5]" started-at="2025-12-24T16:12:38 IST" name="setUp" finished-at="2025-12-24T16:12:43 IST" duration-ms="4464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC_007_placeOrderwithValidDetails()[pri:0, instance:tests.CheckoutTest@5c86dbc5]" started-at="2025-12-24T16:12:43 IST" name="TC_007_placeOrderwithValidDetails" finished-at="2025-12-24T16:12:51 IST" duration-ms="8003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_007_placeOrderwithValidDetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.CheckoutTest@5c86dbc5]" started-at="2025-12-24T16:12:51 IST" name="tearDown" finished-at="2025-12-24T16:12:51 IST" duration-ms="370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.CheckoutTest@5c86dbc5]" started-at="2025-12-24T16:12:51 IST" name="setUp" finished-at="2025-12-24T16:12:56 IST" duration-ms="5138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC_008_checkoutWithoutAddingItems()[pri:0, instance:tests.CheckoutTest@5c86dbc5]" started-at="2025-12-24T16:12:56 IST" name="TC_008_checkoutWithoutAddingItems" finished-at="2025-12-24T16:12:59 IST" duration-ms="2734" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_008_checkoutWithoutAddingItems -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.CheckoutTest@5c86dbc5]" started-at="2025-12-24T16:12:59 IST" name="tearDown" finished-at="2025-12-24T16:12:59 IST" duration-ms="328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.CheckoutTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

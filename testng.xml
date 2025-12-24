@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+
+	<listeners> <!-- this will add listener to testNG file -->
+		<listener class-name="base.Listeners" />
+	</listeners>
+	<test thread-count="5" name="Test">
+		<classes>
+			<class name="tests.LoginTest" />
+			<class name="tests.AddToCartTest" />
+			<class name="tests.CheckoutTest" />
+		</classes>
+	</test> <!--
+	Test -->
+</suite> <!--
+Suite -->
