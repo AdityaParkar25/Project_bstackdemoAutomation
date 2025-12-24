@@ -1,4 +1,4 @@
-Ecommerce Project
+Ecommerce Automation Project
 
 1. Project Title:-
 Automation Testing Framework for bstackdemo.com
