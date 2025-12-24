@@ -1,6 +1,6 @@
 Ecommerce Automation Project
 
-1. Project Title:-
+1. Project Name:-
 Automation Testing Framework for bstackdemo.com Ecommerce website.
 
 2. Objective:-
