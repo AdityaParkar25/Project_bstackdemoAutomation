@@ -12,7 +12,7 @@ To design and implement a scalable automation framework to validate the core fun
 •	Test Framework: TestNG
 •	Build Tool: Maven
 •	Design Pattern: Page Object Model (POM)
-•	Reporting: TestNG Reports / Extent Reports
+•	Reporting: TestNG Reports and Extent Reports
 •	Version Control: Git
 
 4. Reporting:-
